@@ -1,4 +1,4 @@
-package com.apififa.apififa.services;
+package com.apififa.apififa.interfaces;
 
 import com.apififa.apififa.models.TablaDePosiciones;
 

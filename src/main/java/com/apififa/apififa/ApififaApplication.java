@@ -13,6 +13,7 @@ public class ApififaApplication {
     public static void main(String[] args) {
         SpringApplication.run(ApififaApplication.class, args);
 
+        //campeonato, grupo, encuentro
 
     }
 

@@ -1,5 +1,6 @@
 package com.apififa.apififa.services;
 
+import com.apififa.apififa.interfaces.ITablaDePosicionesServicio;
 import com.apififa.apififa.models.TablaDePosiciones;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
